@@ -8,7 +8,7 @@ use yii\data\ActiveDataProvider;
 use common\models\Event;
 
 /**
- * EventSearch represents the model behind the search form of `common\models\Event`.
+ *to be EventSearch represents the model behind the search form of `common\models\Event`.
  */
 class EventSearch extends Event
 {

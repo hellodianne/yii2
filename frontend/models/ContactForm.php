@@ -57,4 +57,8 @@ class ContactForm extends Model
             ->setTextBody($this->body)
             ->send();
     }
+
+    public function forTheSakeOfChanges() {
+        echo 'do nothing'
+    }
 }
